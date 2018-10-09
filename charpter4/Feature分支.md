@@ -55,8 +55,6 @@ Deleted branch feature-vulcan (was 756d4af).
 
 终于删除成功！
 
-video：http://github.liaoxuefeng.com/sinaweibopy/video/force-delete-br.mp4
-
 # 小结
 
 开发一个新feature，最好新建一个分支；

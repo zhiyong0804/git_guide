@@ -116,7 +116,6 @@ $ git stash list
 ```
 $ git stash apply stash@{0}
 ```
-video：http://michaelliao.gitcafe.io/video/stash-fix-bug.mp4
 
 # 小结
 
