@@ -19,8 +19,5 @@
 
 最后，你还可以通过以下其他方式找到我：
 
-GitHub：https://github.com/stormzhang
+lizhiyong4360@gmail.com
 
-个人博客：http://stormzhang.com
-
-如果想获取其他更多原创分享，欢迎关注我的微信公众号 AndroidDeveloper。
